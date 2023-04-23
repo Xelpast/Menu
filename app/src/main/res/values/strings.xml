@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="cr7">Cristiano Ronaldo</string>
+    <string name="cr7gmail">Cristano.Ronaldo7@gmail.com</string>
+    <string name="mr">My Reviews</string>
+    <string name="as">Account Settings</string>
+    <string name="pi">Personal Information</string>
+    <string name="nt">Notification</string>
+    <string name="fs">Fingerprint Settings</string>
+    <string name="btmp">Back to Main page</string>
+</resources>
